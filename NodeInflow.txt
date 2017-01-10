@@ -1,0 +1,5 @@
+Node            	Type      	Maximum Lateral Inflow CFS       	Maximum Total Inflow CFS       	Day of Maximum Inflow    	Hour of Maximum Inflow    	Lateral Inflow Volume 10^6 gal  	Total Inflow Volume 10^6 gal  	Flow Balance Error Percent   
+8	JUNCTION  	769.09	769.09	23	0:00	4.48E+03	4.48E+03	0
+9	JUNCTION  	775.1	1537.36	23	0:37	4.54E+03	9.02E+03	0
+11	JUNCTION  	737.09	2258.35	23	1:38	4.13E+03	1.31E+04	0
+13	OUTFALL   	0	2256.61	23	2:21	0	1.31E+04	0
